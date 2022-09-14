@@ -18,3 +18,7 @@
     - ***CHANGE*** the commit message to something meaningful that captures what has happened in the file since the last save
     - Make sure the `Include a link to Colaboratory` checkbox is checked
     - Hit `OK`
+
+## Notebooks
+* [nb0](https://classroom.github.com/a/33Mmonxf)
+* [nb1](https://classroom.github.com/a/fBX28OVT)
