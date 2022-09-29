@@ -2,7 +2,7 @@
 
 
 ## Today's class
-* [Open nb2](https://classroom.github.com/a/se-cm7LL)
+* Open  nb2 in [colab](https://colab.research.google.com)
 * Math
 * Ethics
 * Coding
