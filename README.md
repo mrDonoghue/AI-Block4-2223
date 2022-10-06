@@ -6,7 +6,7 @@
 * Review:
     - numpy, torch
     - span, basis
-    - 3 vs 7, baseline approach
+    - MNIST: 3 vs 7, baseline approach
 * Distances (math and code)
 * Broadcasting (code)
 * validation
