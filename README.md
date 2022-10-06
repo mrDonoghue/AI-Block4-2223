@@ -4,15 +4,12 @@
 ## Today's class
 * Open  nb2 in [colab](https://colab.research.google.com)
 * Review:
-    - enumerate
-    - zip
-    - list comprehensions
-* Math
-    - basis and span
-* Ethics
-    - case study
-* Coding
-    - numpy and torch
+    - numpy, torch
+    - span, basis
+    - 3 vs 7, baseline approach
+* Distances (math and code)
+* Broadcasting (code)
+* validation
 ## Using Colab Reminders:
 * Colab does ***NOT*** autosave!!!
 * Cmd+O -> Github tab
