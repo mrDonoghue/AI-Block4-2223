@@ -2,14 +2,9 @@
 
 
 ## Today's class
-* Open  nb2 in [colab](https://colab.research.google.com)
-* Review:
-    - numpy, torch
-    - span, basis
-    - MNIST: 3 vs 7, baseline approach
-* Distances (math and code)
-* Broadcasting (code)
-* validation
+* [MNIST Baseline Lab](files/MNIST%20Baseline%20Lab.md)
+* If stuck, do ethics while waiting for me
+
 ## Using Colab Reminders:
 * Colab does ***NOT*** autosave!!!
 * Cmd+O -> Github tab
