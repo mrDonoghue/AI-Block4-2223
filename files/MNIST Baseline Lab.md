@@ -16,6 +16,11 @@ Your task: Adapt our code to build a nearest prototype for the full MNIST proble
 * My recommended approach is to go through our old notebook *cell by cell
 * For each cell, make sure you know what the cell is actually doing
 * Once you know what a cell is doing, decide whether or not it can be directly copied, copied and modified, or whether we don't need it at all
+
+### Downloading all of the data
+* Early in the notebook there is a cell which uses `MNIST_SAMPLE` when downloading data. Change this to `MNIST` to obtain the full MNIST dataset
+
+
 ### Dealing with 10 things instead of 2
 * Note that the 3 vs 7 case is easier than our new problem
 * There were several places in the original code where we made a 3-version and a 7-version of a variable
