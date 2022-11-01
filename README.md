@@ -2,6 +2,7 @@
 
 
 ## Today's class
+* [Reflection](https://forms.gle/zQAr8MFX6QQejong7)
 * [MNIST Baseline Lab](files/MNIST%20Baseline%20Lab.md)
 * If stuck, do ethics while waiting for me
 
