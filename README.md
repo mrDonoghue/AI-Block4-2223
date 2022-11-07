@@ -24,7 +24,10 @@
     - Make sure the `Include a link to Colaboratory` checkbox is checked
     - Hit `OK`
 
+## Old
+* [MNIST Baseline](files/MNIST%20Baseline%20Lab.md)
 ## Notebooks
 * [nb0](https://classroom.github.com/a/33Mmonxf)
 * [nb1](https://classroom.github.com/a/fBX28OVT)
 * [nb2](https://classroom.github.com/a/se-cm7LL)
+
