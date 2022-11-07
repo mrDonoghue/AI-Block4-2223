@@ -2,9 +2,13 @@
 
 
 ## Today's class
-* [Reflection](https://forms.gle/zQAr8MFX6QQejong7)
-* [MNIST Baseline Lab](files/MNIST%20Baseline%20Lab.md)
-* If stuck, do ethics while waiting for me
+* Linear transformations
+* Machine Learning?
+* Baby's first learnable model
+
+## Today's links
+* [Colab](https://colab.research.google.com)
+* [course interest](https://forms.gle/YZgGjSD5k7inBFnz9)
 
 ## Using Colab Reminders:
 * Colab does ***NOT*** autosave!!!
