@@ -2,13 +2,19 @@
 
 
 ## Today's class
-* Linear transformations
-* Machine Learning?
-* Baby's first learnable model
+### Gradient descent pytorch example
+* open nb2 in [colab](https://colab.research.google.com)
+* run the first 2 code cells
+* make a new text cell at the bottom and put `# Gradient Descent` in the cell
+* make a new code cell and copy-paste this there:
+  ```
+  heights = tensor([16., 20., 22., 24., 40., 52., 53., 56., 63., 82.])
+  flowers = tensor([2., 2., 3., 2., 4., 5., 6., 5., 6., 8.])
+  ```
 
 ## Today's links
 * [Colab](https://colab.research.google.com)
-* [course interest](https://forms.gle/YZgGjSD5k7inBFnz9)
+
 
 ## Using Colab Reminders:
 * Colab does ***NOT*** autosave!!!
