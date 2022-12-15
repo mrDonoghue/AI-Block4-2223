@@ -3,6 +3,7 @@
 
 ## Today's class
 ### Gradient descent pytorch example
+* 
 * open nb2 in [colab](https://colab.research.google.com)
 * run the first 2 code cells
 * Original gradient descent example
