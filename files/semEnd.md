@@ -11,7 +11,7 @@
 
 
 ## Reflection
-
+For each of the following subsections, carry out a dialogue with chatgpt. Remember to paste the source html into your notebook to record the dialogue.
 
 ### What went well?
 ```
