@@ -2,8 +2,9 @@
 
 
 ## Today's class
-### semester end activity
-* Follow the instructions in [this file](files/semEnd.md)
+
+* If you haven't finished yet, follow the instructions in [this file](files/semEnd.md)
+* [Explainer0](files/Explainer0.md)
 
 ## Today's links
 * [Colab](https://colab.research.google.com)

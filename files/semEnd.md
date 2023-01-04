@@ -11,7 +11,9 @@
 
 
 ## Reflection
-For each of the following subsections, carry out a dialogue with chatgpt. Remember to paste the source html into your notebook to record the dialogue.
+For each of the following subsections, carry out a short dialogue with chatgpt. Remember to paste the source html into your notebook to record the dialogue. 
+
+For each section, you only need to converse as long as it takes to get out a reasonable idea or two. Use the AI as a tool to help you brainstorm.
 
 ### What went well?
 ```
@@ -44,21 +46,23 @@ Now, I'd like to brainstorm feedback I can give to my instructor about the cours
 
 ## Self-evaluation of learning
 
-### Prompt template
-```
-I am a high school student studying artificial intelligence, I'd like you to guide me on a semester-long reflection focused on developing a growth mindset and metacognition. Give responses that look like what a friendly, helpful, encouraging tutor would say. I know that you're not a real tutor, just an LLM.
+Now that we've reflected on the course itself, let's think about the material.
 
-I'd like you to quiz me on a topic, one question at a time (without giving me the answer!) so I can assess my understanding. As I answer, please be sure to tell me if I said anything inaccurately or if there are big pieces I'm missing. I'd like to be quizzed on the topic of BLANK
-```
 
 
 
 
 ### Instructions
 0. Copy-paste the following bulleted list into a text cell in nb2
-1. For each bullet, use the above prompt, filling in the BLANK to dialogue with chatgpt to try to remind yourself about it/assess your understanding
-2. For each bullet with a TODO, change the TODO to a rating 0-5 of how much you currently understand the topic
+1. For each bullet with a TODO, change the TODO to a rating 0-5 of how much you currently understand the topic
+  2. For each bullet, use the below prompt (Prompt template), filling in the BLANK to dialogue with chatgpt to try to remind yourself about it/assess your understanding.
 
+### Prompt template
+```
+I am a high school student studying artificial intelligence, I'd like you to guide me on a semester-long reflection focused on developing a growth mindset and metacognition. Give responses that look like what a friendly, helpful, encouraging tutor would say. I know that you're not a real tutor, just an LLM.
+
+I'd like you to quiz me on a topic, one question at a time (without giving me the answer!) so I can assess my understanding. As I answer, please be sure to tell me if I said anything inaccurately or if there are big pieces I'm missing. I'd like to be quizzed on the topic of BLANK
+```
 
 ### Topic list
 ```
