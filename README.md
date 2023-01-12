@@ -3,10 +3,9 @@
 
 ## Today's class
 
-* If you haven't finished yet, follow the instructions in [this file](files/semEnd.md)
-* [Explainer0](files/Explainer0.md)
 
 ## Today's links
+* [3v7](files/3v7Logistic.md)
 * [Colab](https://colab.research.google.com)
 
 
@@ -25,6 +24,8 @@
     - Hit `OK`
 
 ## Old
+* If you haven't finished yet, follow the instructions in [this file](files/semEnd.md)
+* [Explainer0](files/Explainer0.md)
 * [MNIST Baseline](files/MNIST%20Baseline%20Lab.md)
 ## Notebooks
 * [nb0](https://classroom.github.com/a/33Mmonxf)
