@@ -5,6 +5,7 @@
 
 
 ## Today's links
+* [SGDLab](https://colab.research.google.com/drive/1GkfznyWpRY9UG2KOd5582CW3GNkNAxTq?usp=sharing)
 * [3v7](files/3v7Logistic.md)
 * [Colab](https://colab.research.google.com)
 
