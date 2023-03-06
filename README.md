@@ -6,6 +6,7 @@
 
 ## Today's links
 * [SGDLab](https://colab.research.google.com/drive/1GkfznyWpRY9UG2KOd5582CW3GNkNAxTq?usp=sharing)
+* [SGDHints](https://docs.google.com/document/d/1hKkVE020ATYQwF9Jiz63d-RLW67xCelBpIjW-dFbU8E/edit?usp=sharing)
 * [3v7](files/3v7Logistic.md)
 * [Colab](https://colab.research.google.com)
 
