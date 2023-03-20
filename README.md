@@ -5,14 +5,19 @@
 * [nb3](https://colab.research.google.com)
 
 ```python
-class BasicOptim:
-    def __init__(self,params,lr): self.params,self.lr = list(params),lr
+def our_plot(xish):
+  c0 = xish[y.squeeze() == 0].detach()
+  c1 = xish[y.squeeze() == 1].detach()
+  plt.scatter(c0[:, 0], c0[:, 1], label="0", color="red", marker="x")
+  plt.scatter(c1[:, 0], c1[:, 1], label="1", color="blue", marker="o")
 
-    def step(self, *args, **kwargs):
-        for p in self.params: p.data -= p.grad.data * self.lr
+  # Label the axes and add a legend
+  plt.xlabel("f1")
+  plt.ylabel("f2")
+  plt.legend()
 
-    def zero_grad(self, *args, **kwargs):
-        for p in self.params: p.grad = None
+  # Show the plot
+  plt.show()
 ```
 
 ## Today's class
