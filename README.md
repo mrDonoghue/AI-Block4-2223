@@ -2,6 +2,7 @@
 <base target="_blank">
 
 ## Today's class
+* [formative](https://app.formative.com/formatives/643464176fc04258279ce43f)
 * [nb3](https://colab.research.google.com)
 
 ```python
