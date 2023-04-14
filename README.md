@@ -2,7 +2,7 @@
 <base target="_blank">
 
 ## Today's class
-* [formative](https://app.formative.com/formatives/643464176fc04258279ce43f)
+* check the announcemnt on myViewpoint!
 * [nb3](https://colab.research.google.com)
 
 ```python
@@ -25,6 +25,7 @@ def our_plot(xish):
 
 
 ## Old
+* [formative](https://app.formative.com/formatives/643464176fc04258279ce43f)
 * [SGDLab](https://colab.research.google.com/drive/1GkfznyWpRY9UG2KOd5582CW3GNkNAxTq?usp=sharing)
 * [SGDHints](https://docs.google.com/document/d/1hKkVE020ATYQwF9Jiz63d-RLW67xCelBpIjW-dFbU8E/edit?usp=sharing)
 * [3v7](files/3v7Logistic.md)
