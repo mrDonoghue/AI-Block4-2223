@@ -2,6 +2,12 @@
 <base target="_blank">
 
 ## Today's class
+
+```python
+!wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
+```
+## Old
+
 * check the announcemnt on myViewpoint!
 * [nb3](https://colab.research.google.com)
 
@@ -21,10 +27,9 @@ def our_plot(xish):
   plt.show()
 ```
 
-## Today's class
 
 
-## Old
+
 * [formative](https://app.formative.com/formatives/643464176fc04258279ce43f)
 * [SGDLab](https://colab.research.google.com/drive/1GkfznyWpRY9UG2KOd5582CW3GNkNAxTq?usp=sharing)
 * [SGDHints](https://docs.google.com/document/d/1hKkVE020ATYQwF9Jiz63d-RLW67xCelBpIjW-dFbU8E/edit?usp=sharing)
